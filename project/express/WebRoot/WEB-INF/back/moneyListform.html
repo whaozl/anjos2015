@@ -1,0 +1,293 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="renderer" content="webkit|ie-comp|ie-stand">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no" />
+<meta http-equiv="Cache-Control" content="no-siteapp" />
+<title>查询列表</title>
+<script language="javascript" type="text/javascript" src="js/WdatePicker.js"></script>
+<Script Language=JavaScript>
+function pre_submit(o){
+nstate=0;
+if(document.getElementById('is0').checked) nstate += 1;
+if(document.getElementById('is1').checked) nstate += 10;
+if(document.getElementById('is2').checked) nstate += 100;
+if(document.getElementById('is3').checked) nstate += 1000;
+o.istate.value=nstate;
+return true;}
+</Script>
+<style type="text/css">
+<!--
+.Wdate {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	height: 18px;
+	line-height: 18px;
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #666666;
+	border-right-color: #CCCCCC;
+	border-bottom-color: #CCCCCC;
+	border-left-color: #666666;
+	width: 150px;
+	background-image: url(images/datePicker.gif);
+	background-repeat: no-repeat;
+	background-position: right;
+	cursor: pointer;
+}
+
+#tbBG {
+	background-color: #eff5f8;
+	border-top-width: 2px;
+	border-bottom-width: 1px;
+	border-top-style: solid;
+	border-bottom-style: solid;
+	border-top-color: #b7d2df;
+	border-bottom-color: #b7d2df;
+	line-height: 22px;
+	margin-bottom: 5px;
+}
+#table1 {
+	padding: 3px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+.f12blue {
+	font-family:微软雅黑,宋体, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #87b4c9;
+	text-decoration: underline;
+}
+.f12blue3 {
+	font-family:微软雅黑,宋体, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #87b4c9;
+	text-decoration: none;
+}
+
+.myinput {
+	font-family:微软雅黑,宋体, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	height: 18px;
+	line-height: 18px;
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #9dc2d4;
+	border-left-color: #9dc2d4;
+	width: 200px;
+	border-right-color: #FFFFFF;
+	border-bottom-color: #FFFFFF;
+}
+.myinput2 {
+	font-family:微软雅黑,宋体, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	height: 18px;
+	line-height: 18px;
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #B6B9BC;
+	border-left-color: #B6B9BC;
+	width: 120px;
+	border-right-color: #FFFFFF;
+	border-bottom-color: #FFFFFF;
+}
+#txtKind {
+	color: #000000;
+	text-align: left;
+	height: 33px;
+	font-size: 14px;
+	cursor: pointer;
+	padding-left: 15px;
+	line-height: 33px;
+}
+.f12blue2 {
+	font-family:微软雅黑,宋体, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #185d94;
+	text-decoration: underline;
+}
+.btn {
+	background-color: #CC0000;
+	border-top-width: 0px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 0px;
+	border-top-style: none;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: none;
+	border-right-color: #9B0000;
+	border-bottom-color: #9B0000;
+	line-height: 22px;
+	font-family:微软雅黑,宋体, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+	color: #FFFFFF;
+	cursor: pointer;
+	width: 60px;
+	height: 22px;
+}
+#tbLine {
+	border: 1px dashed #b7d2df;
+	background-color: #f8fbfc;
+}
+td {
+	font-family:微软雅黑,宋体, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+}
+.f12gray {
+	color: #999999;
+	text-decoration: underline;
+}
+.fred {
+	color: #FF0000;
+}
+.mytextarea {
+	height: 100px;
+	width: 700px;
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #9dc2d4;
+	border-right-color: #FFFFFF;
+	border-bottom-color: #FFFFFF;
+	border-left-color: #9dc2d4;
+}
+.bt_save {
+	background-image: url(/orderPic/bt_save.jpg);
+	background-repeat: no-repeat;
+	height: 35px;
+	width: 149px;
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	border-left-width: 0px;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+}
+.bt_prt {
+	background-image: url(/orderPic/bt_prt.jpg);
+	background-repeat: no-repeat;
+	height: 35px;
+	width: 149px;
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	border-left-width: 0px;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+}
+.myinput3 {
+	font-family:微软雅黑,宋体, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	height: 18px;
+	line-height: 18px;
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #9dc2d4;
+	border-left-color: #9dc2d4;
+	border-right-color: #FFFFFF;
+	border-bottom-color: #FFFFFF;
+
+}
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+
+-->
+</style>
+</head>
+<body>
+<div align='left'>
+<form method='POST'  action='Listform.html' target='main'>
+<input TYPE='hidden' NAME='istate' id='istate' VALUE=111>
+<input TYPE='hidden' NAME='w' VALUE='369express'>
+<table width="780" border="0" align="left" cellpadding="5" cellspacing="1" bgcolor="#BDBCBD">
+  <tr>
+    <td height="60" bgcolor="#F5F5F5"><div id="txtKind"><strong>客户业务清单条件输入</strong></div></td>
+  </tr>
+  <tr>
+    <td bgcolor="#F5F5F5"><table width="100%" border="0" cellpadding="5" cellspacing="0">
+      <tr>
+        <td width="93" align="right">发件日期： </td>
+        <td width="687" align="left"><input name='bdate' type='text' class="Wdate" id="cdateb" onClick="WdatePicker()" size="14">        &nbsp;至
+          <input name='edate' type='text'  class="Wdate" id="cdateb" onClick="WdatePicker()" size="14"></td>
+      </tr>
+      <tr>
+        <td align="right">核收情况： </td>
+        <td align="left"><input type='radio' name='ipay' value=0>
+          未核收
+            <input type='radio' name='ipay' value=1>
+            已确认核收
+            <input type='radio' name='ipay' checked value=2>
+            全部</td>
+      </tr>
+      <tr>
+        <td align="right">运转情况：</td>
+        <td align="left"><input type='checkbox' id='is0' checked>
+          转运中
+            <input type='checkbox' id='is1' checked>
+            送达
+            <input type='checkbox' id='is2' checked>
+            异常
+            <input type='checkbox' id='is3' checked>
+            退件</td>
+      </tr>
+      <tr>
+        <td align="right">&nbsp;</td>
+        <td height="50" align="left" valign="bottom"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="13%" align="left"><input  type='submit' class='btn' value='提 交'></td>
+    <td align="left"><input  type='reset' class='btn' value='重 置'></td>
+    </tr>
+</table>        </td>
+      </tr>
+      <tr>
+        <td align="right">&nbsp;</td>
+        <td align="left">&nbsp;</td>
+      </tr>
+    </table></td>
+  </tr>
+</table>
+</form>
+</div>
+</body>
+</html>

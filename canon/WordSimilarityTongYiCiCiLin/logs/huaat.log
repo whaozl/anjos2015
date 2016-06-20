@@ -1,0 +1,329 @@
+[INFO] [2016-03-25 10:26:49][edu.shu.similarity.cilin.WordSimilarity]Aa01B01=
+[INFO] [2016-03-25 10:26:49][edu.shu.similarity.cilin.WordSimilarity]Aa01B01=
+[INFO] [2016-03-25 10:26:49][edu.shu.similarity.cilin.WordSimilarity]k--0.0
+[INFO] [2016-03-25 10:26:49][edu.shu.similarity.cilin.WordSimilarity]n--0.0
+[INFO] [2016-03-25 10:26:49][edu.shu.similarity.cilin.WordSimilarity]length--8
+[INFO] [2016-03-25 10:26:49][edu.shu.similarity.cilin.WordSimilarity]res :1.0
+[INFO] [2016-03-25 10:26:49][edu.shu.similarity.cilin.WordSimilarity]Aa01B01=
+[INFO] [2016-03-25 10:26:49][edu.shu.similarity.cilin.WordSimilarity]Aa01B02=
+[INFO] [2016-03-25 10:26:49][edu.shu.similarity.cilin.WordSimilarity]k--1.0
+[INFO] [2016-03-25 10:26:49][edu.shu.similarity.cilin.WordSimilarity]n--4.0
+[INFO] [2016-03-25 10:26:49][edu.shu.similarity.cilin.WordSimilarity]length--5
+[INFO] [2016-03-25 10:26:49][edu.shu.similarity.cilin.WordSimilarity]res :0.9576614882494312
+[INFO] [2016-03-25 10:26:49][edu.shu.similarity.cilin.WordSimilarity]Aa01B01=
+[INFO] [2016-03-25 10:26:49][edu.shu.similarity.cilin.WordSimilarity]Aa01C07#
+[INFO] [2016-03-25 10:26:49][edu.shu.similarity.cilin.WordSimilarity]k--1.0
+[INFO] [2016-03-25 10:26:49][edu.shu.similarity.cilin.WordSimilarity]n--4.0
+[INFO] [2016-03-25 10:26:49][edu.shu.similarity.cilin.WordSimilarity]length--4
+[INFO] [2016-03-25 10:26:49][edu.shu.similarity.cilin.WordSimilarity]res :0.8978076452338418
+[INFO] [2016-03-25 10:26:49][edu.shu.similarity.cilin.WordSimilarity]Aa01B01=
+[INFO] [2016-03-25 10:26:49][edu.shu.similarity.cilin.WordSimilarity]Aa01B03#
+[INFO] [2016-03-25 10:26:49][edu.shu.similarity.cilin.WordSimilarity]k--2.0
+[INFO] [2016-03-25 10:26:49][edu.shu.similarity.cilin.WordSimilarity]n--4.0
+[INFO] [2016-03-25 10:26:49][edu.shu.similarity.cilin.WordSimilarity]length--5
+[INFO] [2016-03-25 10:26:49][edu.shu.similarity.cilin.WordSimilarity]res :0.7182461161870735
+[INFO] [2016-03-25 10:26:49][edu.shu.similarity.cilin.WordSimilarity]Aa01B01=
+[INFO] [2016-03-25 10:26:49][edu.shu.similarity.cilin.WordSimilarity]Ak03A01=
+[INFO] [2016-03-25 10:26:49][edu.shu.similarity.cilin.WordSimilarity]k--10.0
+[INFO] [2016-03-25 10:26:49][edu.shu.similarity.cilin.WordSimilarity]n--14.0
+[INFO] [2016-03-25 10:26:49][edu.shu.similarity.cilin.WordSimilarity]length--1
+[INFO] [2016-03-25 10:26:49][edu.shu.similarity.cilin.WordSimilarity]res :0.22524722217121346
+[INFO] [2016-03-25 10:26:49][edu.shu.similarity.cilin.WordSimilarity]Aa01B01=
+[INFO] [2016-03-25 10:26:49][edu.shu.similarity.cilin.WordSimilarity]Aa03A05=
+[INFO] [2016-03-25 10:26:49][edu.shu.similarity.cilin.WordSimilarity]k--2.0
+[INFO] [2016-03-25 10:26:49][edu.shu.similarity.cilin.WordSimilarity]n--6.0
+[INFO] [2016-03-25 10:26:49][edu.shu.similarity.cilin.WordSimilarity]length--2
+[INFO] [2016-03-25 10:26:49][edu.shu.similarity.cilin.WordSimilarity]res :0.6630145969121822
+[INFO] [2016-03-25 10:26:49][edu.shu.similarity.cilin.WordSimilarity]Aa01B01=
+[INFO] [2016-03-25 10:26:49][edu.shu.similarity.cilin.WordSimilarity]Ab02B01=
+[INFO] [2016-03-25 10:26:49][edu.shu.similarity.cilin.WordSimilarity]k--1.0
+[INFO] [2016-03-25 10:26:49][edu.shu.similarity.cilin.WordSimilarity]n--14.0
+[INFO] [2016-03-25 10:26:49][edu.shu.similarity.cilin.WordSimilarity]length--1
+[INFO] [2016-03-25 10:26:49][edu.shu.similarity.cilin.WordSimilarity]res :0.6306922220793977
+[INFO] [2016-03-25 10:26:49][edu.shu.similarity.cilin.WordSimilarity]Aa01B01=
+[INFO] [2016-03-25 10:26:49][edu.shu.similarity.cilin.WordSimilarity]Ad01A02=
+[INFO] [2016-03-25 10:26:49][edu.shu.similarity.cilin.WordSimilarity]k--3.0
+[INFO] [2016-03-25 10:26:49][edu.shu.similarity.cilin.WordSimilarity]n--14.0
+[INFO] [2016-03-25 10:26:49][edu.shu.similarity.cilin.WordSimilarity]length--1
+[INFO] [2016-03-25 10:26:49][edu.shu.similarity.cilin.WordSimilarity]res :0.5405933332109123
+[INFO] [2016-03-25 10:26:49][edu.shu.similarity.cilin.WordSimilarity]Aa01B01=
+[INFO] [2016-03-25 10:26:49][edu.shu.similarity.cilin.WordSimilarity]Ah01A01=
+[INFO] [2016-03-25 10:26:49][edu.shu.similarity.cilin.WordSimilarity]k--7.0
+[INFO] [2016-03-25 10:26:49][edu.shu.similarity.cilin.WordSimilarity]n--14.0
+[INFO] [2016-03-25 10:26:49][edu.shu.similarity.cilin.WordSimilarity]length--1
+[INFO] [2016-03-25 10:26:49][edu.shu.similarity.cilin.WordSimilarity]res :0.36039555547394153
+[INFO] [2016-03-25 10:26:49][edu.shu.similarity.cilin.WordSimilarity]Aa01B01=
+[INFO] [2016-03-25 10:26:49][edu.shu.similarity.cilin.WordSimilarity]Ah01B01=
+[INFO] [2016-03-25 10:26:49][edu.shu.similarity.cilin.WordSimilarity]k--7.0
+[INFO] [2016-03-25 10:26:49][edu.shu.similarity.cilin.WordSimilarity]n--14.0
+[INFO] [2016-03-25 10:26:49][edu.shu.similarity.cilin.WordSimilarity]length--1
+[INFO] [2016-03-25 10:26:49][edu.shu.similarity.cilin.WordSimilarity]res :0.36039555547394153
+[INFO] [2016-03-25 10:26:49][edu.shu.similarity.cilin.WordSimilarity]Aa01B01=
+[INFO] [2016-03-25 10:26:49][edu.shu.similarity.cilin.WordSimilarity]Ak03A03#
+[INFO] [2016-03-25 10:26:49][edu.shu.similarity.cilin.WordSimilarity]k--10.0
+[INFO] [2016-03-25 10:26:49][edu.shu.similarity.cilin.WordSimilarity]n--14.0
+[INFO] [2016-03-25 10:26:49][edu.shu.similarity.cilin.WordSimilarity]length--1
+[INFO] [2016-03-25 10:26:49][edu.shu.similarity.cilin.WordSimilarity]res :0.22524722217121346
+[INFO] [2016-03-25 10:26:49][edu.shu.similarity.cilin.WordSimilarity]Aa01B01=
+[INFO] [2016-03-25 10:26:49][edu.shu.similarity.cilin.WordSimilarity]Al05B01=
+[INFO] [2016-03-25 10:26:49][edu.shu.similarity.cilin.WordSimilarity]k--11.0
+[INFO] [2016-03-25 10:26:49][edu.shu.similarity.cilin.WordSimilarity]n--14.0
+[INFO] [2016-03-25 10:26:49][edu.shu.similarity.cilin.WordSimilarity]length--1
+[INFO] [2016-03-25 10:26:49][edu.shu.similarity.cilin.WordSimilarity]res :0.18019777773697077
+[INFO] [2016-03-25 10:26:49][edu.shu.similarity.cilin.WordSimilarity]Aa01B01=
+[INFO] [2016-03-25 10:26:49][edu.shu.similarity.cilin.WordSimilarity]Di11A11=
+[INFO] [2016-03-25 10:26:49][edu.shu.similarity.cilin.WordSimilarity]k--3.0
+[INFO] [2016-03-25 10:26:49][edu.shu.similarity.cilin.WordSimilarity]n--0.0
+[INFO] [2016-03-25 10:26:49][edu.shu.similarity.cilin.WordSimilarity]length--0
+[INFO] [2016-03-25 10:27:13][edu.shu.similarity.cilin.WordSimilarity]Ad02B04#
+[INFO] [2016-03-25 10:27:13][edu.shu.similarity.cilin.WordSimilarity]Ad02B04#
+[INFO] [2016-03-25 10:27:13][edu.shu.similarity.cilin.WordSimilarity]k--0.0
+[INFO] [2016-03-25 10:27:13][edu.shu.similarity.cilin.WordSimilarity]n--0.0
+[INFO] [2016-03-25 10:27:13][edu.shu.similarity.cilin.WordSimilarity]length--8
+[INFO] [2016-03-25 10:27:13][edu.shu.similarity.cilin.WordSimilarity]res :0.5
+[INFO] [2016-03-25 10:27:13][edu.shu.similarity.cilin.WordSimilarity]Ad02B04#
+[INFO] [2016-03-25 10:27:13][edu.shu.similarity.cilin.WordSimilarity]Ad02B04#
+[INFO] [2016-03-25 10:27:13][edu.shu.similarity.cilin.WordSimilarity]k--0.0
+[INFO] [2016-03-25 10:27:13][edu.shu.similarity.cilin.WordSimilarity]n--0.0
+[INFO] [2016-03-25 10:27:13][edu.shu.similarity.cilin.WordSimilarity]length--8
+[INFO] [2016-03-25 10:27:13][edu.shu.similarity.cilin.WordSimilarity]res :0.5
+[INFO] [2016-03-25 10:27:13][edu.shu.similarity.cilin.WordSimilarity]Ad02B04#
+[INFO] [2016-03-25 10:27:13][edu.shu.similarity.cilin.WordSimilarity]Ad02B04#
+[INFO] [2016-03-25 10:27:13][edu.shu.similarity.cilin.WordSimilarity]k--0.0
+[INFO] [2016-03-25 10:27:13][edu.shu.similarity.cilin.WordSimilarity]n--0.0
+[INFO] [2016-03-25 10:27:13][edu.shu.similarity.cilin.WordSimilarity]length--8
+[INFO] [2016-03-25 10:27:13][edu.shu.similarity.cilin.WordSimilarity]res :0.5
+[INFO] [2016-03-25 10:27:13][edu.shu.similarity.cilin.WordSimilarity]Ad02B04#
+[INFO] [2016-03-25 10:27:13][edu.shu.similarity.cilin.WordSimilarity]Ad02B04#
+[INFO] [2016-03-25 10:27:13][edu.shu.similarity.cilin.WordSimilarity]k--0.0
+[INFO] [2016-03-25 10:27:13][edu.shu.similarity.cilin.WordSimilarity]n--0.0
+[INFO] [2016-03-25 10:27:13][edu.shu.similarity.cilin.WordSimilarity]length--8
+[INFO] [2016-03-25 10:27:13][edu.shu.similarity.cilin.WordSimilarity]res :0.5
+[INFO] [2016-03-25 10:27:13][edu.shu.similarity.cilin.WordSimilarity]Ad02B04#
+[INFO] [2016-03-25 10:27:13][edu.shu.similarity.cilin.WordSimilarity]Ad02B04#
+[INFO] [2016-03-25 10:27:13][edu.shu.similarity.cilin.WordSimilarity]k--0.0
+[INFO] [2016-03-25 10:27:13][edu.shu.similarity.cilin.WordSimilarity]n--0.0
+[INFO] [2016-03-25 10:27:13][edu.shu.similarity.cilin.WordSimilarity]length--8
+[INFO] [2016-03-25 10:27:13][edu.shu.similarity.cilin.WordSimilarity]res :0.5
+[INFO] [2016-03-25 10:27:13][edu.shu.similarity.cilin.WordSimilarity]Ad02B04#
+[INFO] [2016-03-25 10:27:13][edu.shu.similarity.cilin.WordSimilarity]Ad02B04#
+[INFO] [2016-03-25 10:27:13][edu.shu.similarity.cilin.WordSimilarity]k--0.0
+[INFO] [2016-03-25 10:27:13][edu.shu.similarity.cilin.WordSimilarity]n--0.0
+[INFO] [2016-03-25 10:27:13][edu.shu.similarity.cilin.WordSimilarity]length--8
+[INFO] [2016-03-25 10:27:13][edu.shu.similarity.cilin.WordSimilarity]res :0.5
+[INFO] [2016-03-25 10:27:13][edu.shu.similarity.cilin.WordSimilarity]Ad02B04#
+[INFO] [2016-03-25 10:27:13][edu.shu.similarity.cilin.WordSimilarity]Ad02B04#
+[INFO] [2016-03-25 10:27:13][edu.shu.similarity.cilin.WordSimilarity]k--0.0
+[INFO] [2016-03-25 10:27:13][edu.shu.similarity.cilin.WordSimilarity]n--0.0
+[INFO] [2016-03-25 10:27:13][edu.shu.similarity.cilin.WordSimilarity]length--8
+[INFO] [2016-03-25 10:27:13][edu.shu.similarity.cilin.WordSimilarity]res :0.5
+[INFO] [2016-03-25 10:27:13][edu.shu.similarity.cilin.WordSimilarity]Ad02B04#
+[INFO] [2016-03-25 10:27:13][edu.shu.similarity.cilin.WordSimilarity]Ad02B04#
+[INFO] [2016-03-25 10:27:13][edu.shu.similarity.cilin.WordSimilarity]k--0.0
+[INFO] [2016-03-25 10:27:13][edu.shu.similarity.cilin.WordSimilarity]n--0.0
+[INFO] [2016-03-25 10:27:13][edu.shu.similarity.cilin.WordSimilarity]length--8
+[INFO] [2016-03-25 10:27:13][edu.shu.similarity.cilin.WordSimilarity]res :0.5
+[INFO] [2016-03-25 10:27:13][edu.shu.similarity.cilin.WordSimilarity]Ad02B04#
+[INFO] [2016-03-25 10:27:13][edu.shu.similarity.cilin.WordSimilarity]Ad02B04#
+[INFO] [2016-03-25 10:27:13][edu.shu.similarity.cilin.WordSimilarity]k--0.0
+[INFO] [2016-03-25 10:27:13][edu.shu.similarity.cilin.WordSimilarity]n--0.0
+[INFO] [2016-03-25 10:27:13][edu.shu.similarity.cilin.WordSimilarity]length--8
+[INFO] [2016-03-25 10:27:13][edu.shu.similarity.cilin.WordSimilarity]res :0.5
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]Da13A01=
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]Ee26A01=
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]k--1.0
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]n--0.0
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]length--0
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]Da13A01=
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]Ee28A01=
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]k--1.0
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]n--0.0
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]length--0
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]Da13A01=
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]Ee26A01=
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]k--1.0
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]n--0.0
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]length--0
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]Da13A01=
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]Ee28A01=
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]k--1.0
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]n--0.0
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]length--0
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]Da13A01=
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]Ee26A01=
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]k--1.0
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]n--0.0
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]length--0
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]Da13A01=
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]Ee28A01=
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]k--1.0
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]n--0.0
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]length--0
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]Ee34D01=
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]Ee26A01=
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]k--8.0
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]n--44.0
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]length--2
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]res :0.48391950204600176
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]Ee34D01=
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]Ee28A01=
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]k--6.0
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]n--44.0
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]length--2
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]res :0.5100773129674072
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]Ee34D01=
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]Ee26A01=
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]k--8.0
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]n--44.0
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]length--2
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]res :0.48391950204600176
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]Ee34D01=
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]Ee28A01=
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]k--6.0
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]n--44.0
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]length--2
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]res :0.5100773129674072
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]Ee34D01=
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]Ee26A01=
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]k--8.0
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]n--44.0
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]length--2
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]res :0.48391950204600176
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]Ee34D01=
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]Ee28A01=
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]k--6.0
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]n--44.0
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]length--2
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]res :0.5100773129674072
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]Da13A01=
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]Ee26A01=
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]k--1.0
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]n--0.0
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]length--0
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]Da13A01=
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]Ee28A01=
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]k--1.0
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]n--0.0
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]length--0
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]Da13A01=
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]Ee26A01=
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]k--1.0
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]n--0.0
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]length--0
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]Da13A01=
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]Ee28A01=
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]k--1.0
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]n--0.0
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]length--0
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]Da13A01=
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]Ee26A01=
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]k--1.0
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]n--0.0
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]length--0
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]Da13A01=
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]Ee28A01=
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]k--1.0
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]n--0.0
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]length--0
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]Ee34D01=
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]Ee26A01=
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]k--8.0
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]n--44.0
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]length--2
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]res :0.48391950204600176
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]Ee34D01=
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]Ee28A01=
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]k--6.0
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]n--44.0
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]length--2
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]res :0.5100773129674072
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]Ee34D01=
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]Ee26A01=
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]k--8.0
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]n--44.0
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]length--2
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]res :0.48391950204600176
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]Ee34D01=
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]Ee28A01=
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]k--6.0
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]n--44.0
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]length--2
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]res :0.5100773129674072
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]Ee34D01=
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]Ee26A01=
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]k--8.0
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]n--44.0
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]length--2
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]res :0.48391950204600176
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]Ee34D01=
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]Ee28A01=
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]k--6.0
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]n--44.0
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]length--2
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]res :0.5100773129674072
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]Da13A01=
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]Ee26A01=
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]k--1.0
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]n--0.0
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]length--0
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]Da13A01=
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]Ee28A01=
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]k--1.0
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]n--0.0
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]length--0
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]Da13A01=
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]Ee26A01=
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]k--1.0
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]n--0.0
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]length--0
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]Da13A01=
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]Ee28A01=
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]k--1.0
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]n--0.0
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]length--0
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]Da13A01=
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]Ee26A01=
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]k--1.0
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]n--0.0
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]length--0
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]Da13A01=
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]Ee28A01=
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]k--1.0
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]n--0.0
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]length--0
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]Ee34D01=
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]Ee26A01=
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]k--8.0
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]n--44.0
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]length--2
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]res :0.48391950204600176
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]Ee34D01=
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]Ee28A01=
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]k--6.0
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]n--44.0
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]length--2
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]res :0.5100773129674072
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]Ee34D01=
+[INFO] [2016-03-25 10:27:18][edu.shu.similarity.cilin.WordSimilarity]Ee26A01=
+[INFO] [2016-03-25 10:27:19][edu.shu.similarity.cilin.WordSimilarity]k--8.0
+[INFO] [2016-03-25 10:27:19][edu.shu.similarity.cilin.WordSimilarity]n--44.0
+[INFO] [2016-03-25 10:27:19][edu.shu.similarity.cilin.WordSimilarity]length--2
+[INFO] [2016-03-25 10:27:19][edu.shu.similarity.cilin.WordSimilarity]res :0.48391950204600176
+[INFO] [2016-03-25 10:27:19][edu.shu.similarity.cilin.WordSimilarity]Ee34D01=
+[INFO] [2016-03-25 10:27:19][edu.shu.similarity.cilin.WordSimilarity]Ee28A01=
+[INFO] [2016-03-25 10:27:19][edu.shu.similarity.cilin.WordSimilarity]k--6.0
+[INFO] [2016-03-25 10:27:19][edu.shu.similarity.cilin.WordSimilarity]n--44.0
+[INFO] [2016-03-25 10:27:19][edu.shu.similarity.cilin.WordSimilarity]length--2
+[INFO] [2016-03-25 10:27:19][edu.shu.similarity.cilin.WordSimilarity]res :0.5100773129674072
+[INFO] [2016-03-25 10:27:19][edu.shu.similarity.cilin.WordSimilarity]Ee34D01=
+[INFO] [2016-03-25 10:27:19][edu.shu.similarity.cilin.WordSimilarity]Ee26A01=
+[INFO] [2016-03-25 10:27:19][edu.shu.similarity.cilin.WordSimilarity]k--8.0
+[INFO] [2016-03-25 10:27:19][edu.shu.similarity.cilin.WordSimilarity]n--44.0
+[INFO] [2016-03-25 10:27:19][edu.shu.similarity.cilin.WordSimilarity]length--2
+[INFO] [2016-03-25 10:27:19][edu.shu.similarity.cilin.WordSimilarity]res :0.48391950204600176
+[INFO] [2016-03-25 10:27:19][edu.shu.similarity.cilin.WordSimilarity]Ee34D01=
+[INFO] [2016-03-25 10:27:19][edu.shu.similarity.cilin.WordSimilarity]Ee28A01=
+[INFO] [2016-03-25 10:27:19][edu.shu.similarity.cilin.WordSimilarity]k--6.0
+[INFO] [2016-03-25 10:27:19][edu.shu.similarity.cilin.WordSimilarity]n--44.0
+[INFO] [2016-03-25 10:27:19][edu.shu.similarity.cilin.WordSimilarity]length--2
+[INFO] [2016-03-25 10:27:19][edu.shu.similarity.cilin.WordSimilarity]res :0.5100773129674072

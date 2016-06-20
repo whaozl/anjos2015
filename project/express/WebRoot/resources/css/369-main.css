@@ -1,0 +1,130 @@
+﻿@charset "utf-8";
+
+#table_line {
+	height: 25px;
+	text-align: left;
+	background-color: #E5EFF9;
+	margin-left: 15px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-right-color: #A6C9F1;
+	border-bottom-color: #A6C9F1;
+}
+#tdlineRight {
+	border-right-width: 1px;
+	border-right-style: solid;
+	border-right-color: #CCCCCC;
+}
+.tdline {
+	border-left-width: 1px;
+	border-left-style: solid;
+	border-left-color: #77A1CB;
+}
+.tdlineR {
+	border-right-width: 1px;
+	border-right-style: solid;
+	border-right-color: #77A1CB;
+}
+#tdlineTop {
+	border-top-width: 1px;
+	border-top-style: solid;
+	border-top-color: #FFFFFF;
+}
+#tdlineRight {
+	border-right-width: 1px;
+	border-right-style: solid;
+	border-right-color: #CCCCCC;
+}
+#tdlineleft {
+	border-left-width: 1px;
+	border-left-style: solid;
+	border-left-color: #CCCCCC;
+}
+
+#tdline {
+	border: 1px solid #CCCCCC;
+	background-color: #FFFFFF;
+	padding: 10px;
+}
+#tdlineLR {
+	border-right-width: 1px;
+	border-left-width: 1px;
+	border-right-style: solid;
+	border-left-style: solid;
+	border-right-color: #D3D3D3;
+	border-left-color: #D3D3D3;
+	border-bottom-style: solid;
+	border-bottom-color: #D3D3D3;
+	border-bottom-width: 1px;
+}
+#tdlineLR2 {
+	border-right-width: 1px;
+	border-left-width: 1px;
+	border-right-style: solid;
+	border-left-style: solid;
+	border-right-color: #ADADAD;
+	border-left-color: #ADADAD;
+}
+#DivInfo li {
+	height: 30px;
+	margin-left:10px;
+}
+#DivInfo h1 {
+	font-family:微软雅黑,宋体, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #de030b;
+}
+.tdline_L {
+	border-left-width: 1px;
+	border-left-style: solid;
+	border-left-color: #C6C6C6;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+}
+#tdline_R {
+	border-left-width: 1px;
+	border-left-style: solid;
+	border-left-color: #CECECE;
+}
+#tdline_T {
+	border-top-width: 1px;
+	border-top-style: solid;
+	border-top-color: #FFFFFF;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+}
+#tdline_B {
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #FFCC66;
+	border-top-style: none;
+	border-right-style: none;
+	border-left-style: none;
+}
+.forange {
+	color: #F47921;
+	font-family:微软雅黑,宋体, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+}
+a.forange:visited {
+	color: #F47921;
+	font-family:微软雅黑,宋体, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	line-height: 1.5em;
+}
+#txtKind {
+	color: #000000;
+	text-align: left;
+	height: 22px;
+	font-size: 14px;
+	cursor: pointer;
+	font-weight: bold;
+	padding-left: 15px;
+	line-height: 22px;
+}
