@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans
+	xmlns="http://www.springframework.org/schema/beans"
+	xmlns:mvc="http://www.springframework.org/schema/mvc"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:p="http://www.springframework.org/schema/p"
+	xmlns:context="http://www.springframework.org/schema/context"
+	xmlns:util="http://www.springframework.org/schema/util"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans
+	http://www.springframework.org/schema/beans/spring-beans-4.1.xsd
+	http://www.springframework.org/schema/mvc
+	http://www.springframework.org/schema/mvc/spring-mvc-4.1.xsd
+    http://www.springframework.org/schema/context
+    http://www.springframework.org/schema/context/spring-context-4.1.xsd
+    http://www.springframework.org/schema/util   
+    http://www.springframework.org/schema/util/spring-util-4.1.xsd">
+	
+	<!-- 在SpringMVC中进行一些配置，防止SpringMVC和SpringIOC对同一个对象的管理重合 -->
+<context:component-scan base-package="com.huaat.lingxi.web.controller">
+        <context:include-filter type="annotation" expression="org.springframework.stereotype.Controller"/>
+        <context:include-filter type="annotation" expression="org.springframework.web.bind.annotation.ControllerAdvice"/>
+    </context:component-scan>
+    <!-- <context:component-scan base-package="com.huaat"/> -->
+	
+	<mvc:annotation-driven/>
+<!-- 避免IE执行AJAX时,返回JSON出现下载文件 -->  
+    <bean id="mappingJacksonHttpMessageConverter" class="org.springframework.http.converter.json.MappingJackson2HttpMessageConverter">  
+        <property name="supportedMediaTypes">  
+            <list>  
+                <value>text/html;charset=UTF-8</value>  
+                <value>application/json;charset=UTF-8</value>
+            </list>  
+        </property>  
+    </bean>  
+    <!-- 启动Spring MVC的注解功能，完成请求和注解POJO的映射 -->  
+    <bean class="org.springframework.web.servlet.mvc.annotation.AnnotationMethodHandlerAdapter">  
+        <property name="messageConverters">  
+            <list>  
+                <ref bean="mappingJacksonHttpMessageConverter" /><!-- json转换器 -->  
+            </list>  
+        </property>  
+    </bean>
+	
+	<!-- 将静态文件指定到某个特殊的文件夹中统一处理 -->
+	<mvc:resources location="/resources/" mapping="/resources/**"/>
+	
+	<!-- <bean name="/welcome.html" class="zttc.itat.controller.WelcomeController"></bean> -->
+	
+	<!-- 配置前缀和后缀 -->
+	<bean class="org.springframework.web.servlet.view.InternalResourceViewResolver">
+		<property name="viewClass" value="org.springframework.web.servlet.view.JstlView"/>
+		<property name="prefix" value="/WEB-INF/"/>
+		<property name="suffix" value=".jsp"/>
+	</bean>
+	
+	
+		<!-- 拦截器配置 -->  
+    <mvc:interceptors>  
+      <mvc:interceptor>  
+        <mvc:mapping path="/*/*"/>  
+        <bean class="com.huaat.interceptor.LoginInterceptor">  
+          <property name="allowUrls">  
+            <list>  
+              <value>/login</value><!-- 如果请求中包含以下路径，则不进行拦截 -->  
+              <value>/resources</value>
+              <value>/checkcode</value>
+              <value>/receive</value>
+              <value>404</value>
+            </list>  
+          </property>  
+        </bean>  
+      </mvc:interceptor>  
+    </mvc:interceptors> 
+	
+	
+	<!-- 设置multipartResolver才能完成文件上传 -->
+	<bean id="multipartResolver" class="org.springframework.web.multipart.commons.CommonsMultipartResolver">
+		<property name="maxUploadSize" value="5000000"></property>
+	</bean>
+	
+	<bean id="exceptionResolver" class="org.springframework.web.servlet.handler.SimpleMappingExceptionResolver">
+		<property name="exceptionMappings">
+			<props>
+				<prop key="com.huaat.exception.LoginException">redirect:/login</prop><!-- 这里可以直接写/back/error将跳转到404.jsp -->
+				<prop key="com.huaat.exception.HuatException">redirect:/404</prop>
+			</props>
+		</property>
+	</bean>
+</beans>
