@@ -1,19 +1,19 @@
 package com.jxutcm.nlpir;
 
-import java.io.File;
 import java.io.UnsupportedEncodingException;
-
+import java.util.Properties;
 import com.jxutcm.util.PropertiesUtils;
 import com.sun.jna.Native;
 
 
 public class NLPIR {
+	
+	private Properties properties=PropertiesUtils.getProperties( this.getClass().getResource("/com/jxutcm/config/jxutcm.properties") );
+	
 	// 定义并初始化接口的静态变量 这一个语句是来加载 dll 的， 注意 dll 文件的路径
 	//可以是绝对路径也可以是相对路径，只需要填写 dll 的文件名，不能加后缀
 	//Windows下的加载方式。如果需要支持Linux，需要修改这一行为libNLPIR.so的路径
-	private CLibrary Instance = (CLibrary) Native.loadLibrary(
-			//"D:\\ICTCLAS\\bin\\ICTCLAS2015\\NLPIR",
-			PropertiesUtils.getProperty("NLPIR_PATH", new File( this.getClass().getResource("/").getPath()+"com//jxutcm//config//jxutcm.properties") ), 
+	private CLibrary Instance = (CLibrary) Native.loadLibrary(properties.getProperty("NLPIR_ROOT_WIN") ,
 			CLibrary.class);
 	//是否已初始化
 	private boolean initFlag = false;
@@ -22,7 +22,7 @@ public class NLPIR {
 	 * 初始化函数
 	 */
 	public boolean init(){
-		String argu = "D:\\ICTCLAS";
+		String argu = "d:/anjos/ICTCLAS";
 		//String system_charset = "UTF-8";
 		int charset_type = 1;
 		int init_flag = Instance.NLPIR_Init(argu, charset_type, "0");

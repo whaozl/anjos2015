@@ -44,11 +44,11 @@ public class Demo1 {
         //输出所有单词的词向量
         System.out.println("单词总数="+w2v.getWords());
         for(Map.Entry<String, float[]> entry : w2v.getWordMap().entrySet()){
-        	//System.out.println( "["+entry.getKey() +"] ="+Arrays.toString( entry.getValue() ) );
+        	System.out.println( "["+entry.getKey() +"] ="+Arrays.toString( entry.getValue() ) );
         }
         
         //输出与公司距离最近的前topNSize=40的单词
-        System.out.println(w2v.distance("公司"));
+        //System.out.println(w2v.distance("公司"));
     }
     
     /**

@@ -4,6 +4,9 @@ import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
 import java.io.IOException;
+import java.io.InputStream;
+import java.net.URL;
+import java.net.URLConnection;
 import java.util.Properties;
 
 /**
@@ -37,10 +40,42 @@ public class PropertiesUtils {
 	}
 	
 	/**
+	 * 读取配置文件
+	 */
+	public static Properties getProperties(URL url) {
+		Properties properties = null;// 从文件mdxbu.properties中读取网元ID和模块ID信息
+		InputStream istream = null;
+		URLConnection uconn=null;
+		try {
+			uconn = url.openConnection();
+			uconn.setUseCaches(false);
+			istream = uconn.getInputStream();
+			properties = new Properties();
+			properties.load(istream);
+		} catch (Exception e) {
+			e.printStackTrace();
+		} finally {
+			try {
+				if (istream != null) {
+					istream.close();
+				}
+			} catch (IOException e) {
+				e.printStackTrace();
+			}
+		}
+		return properties;
+	}
+	
+	/**
 	 * 得到属性对应值——单个属性
 	 */
 	public static String getProperty(String key, File file){
 		Properties properties = getProperties(file);
+		return properties.getProperty(key);
+	}
+	
+	public static String getProperty(String key, URL url){
+		Properties properties = getProperties(url);
 		return properties.getProperty(key);
 	}
 	
